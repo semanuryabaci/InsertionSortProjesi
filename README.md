@@ -10,8 +10,11 @@
 ### 1. Sorunun Cevabı
 
 **1. adım:**  22 | 27 16 2 18 6  ->  | işareti o ana kadar sıraladığımız sayıları gösteriyor. 
+
 **2. adım:**  22 27 | 16 2 18 6  ->  22 ve 27 yi karşılaştırıyoruz. 22, 27 den küçük olduğu için yer değiştirme yapmıyoruz.
+
 **3. adım:**  22 16 27 | 2 18 6  ->  27 ve 16 yı karşılaştırıyoruz. 27, 16 dan büyük olduğu için 27 ve 16 yer değiştiriyor.
+
 **4. adım:**  16 22 27 | 2 18 6  ->  22 ve 16 yı karşılaştırıyoruz. 22, 16 dan büyük olduğu için 22 ve 16 yer değiştiriyor. 
 
 **5. adım:**  16 22 2 27 | 18 6  ->  2 ve 27 yi karşılaştırıyoruz. 27, 2 den büyük olduğu için 27 ve 2 yer değiştiriyor.
