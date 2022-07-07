@@ -42,5 +42,10 @@
 
 Dizimiz Insertion Sort algoritmasını kullanarak küçükten büyüğe sıralanmış oldu.
 
+### 2. Sorunun Cevabı
+
+**Insertion Sort Big-O Gösterimi:** O(n^2)
+
+
 
 
