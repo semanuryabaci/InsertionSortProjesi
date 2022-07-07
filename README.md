@@ -1,4 +1,4 @@
-# INSERTION SORT PROJESİ
+# INSERTION SORT PROJESİ [Patika Hesabım](https://app.patika.dev/semanuryabaci)
 
 [22,27,16,2,18,6] -> Insertion Sort
 
@@ -46,6 +46,8 @@
 **4. adım:** 3 5 7 | 8 2 9 4 15 6 -> 5 ve 3 ü karşılaştırıyoruz. 5, 3 ten büyük olduğu için yer değiştirme yapmıyoruz.
 
 **5. adım:** 3 5 7 8 | 2 9 4 15 6 -> 7 ve 8 i karşılaştırıyoruz. 8, 7 den büyük olduğu için yer değiştirme yapmıyoruz.
+
+
 
 
 
