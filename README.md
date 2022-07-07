@@ -6,7 +6,6 @@
 2. Big-O gösterimini yazınız.
 3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
-5. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
 ### 1. Sorunun Cevabı
 
@@ -45,6 +44,35 @@ Dizimiz Insertion Sort algoritmasını kullanarak küçükten büyüğe sıralan
 ### 2. Sorunun Cevabı
 
 **Insertion Sort Big-O Gösterimi:** O(n^2)
+
+### 3. Sorunun Cevabı
+
+**Average Case:** O(n^2)
+
+**Worst Case:** O(n^2)
+
+**Best Case:** O(n)
+
+### 4. Sorunun Cevabı
+
+18 sayısı dizinin ortasında kaldığı için Average Case kapsamına girer.
+
+### [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+
+**1. adım:** 7 | 3 5 8 2 9 4 15 6 -> | işareti o ana kadar sıraladığımız sayıları gösteriyor.
+
+**2. adım:** 3 7 | 5 8 2 9 4 15 6 -> 7 ve 3 ü karşılaştırıyoruz. 3, 7 den küçük olduğu için 3 ve 7 yer değiştiriyor.
+
+**3. adım:** 3 5 7 | 8 2 9 4 15 6 -> 5  ve 7 karşılaştırıyoruz. 5, 7 den küçük olduğu için 5 ve 7 yer değiştiriyor.
+
+**4. adım:** 3 5 7 | 8 2 9 4 15 6 -> 5 ve 3 ü karşılaştırıyoruz. 5, 3 ten büyük olduğu için yer değiştirme yapmıyoruz.
+
+**5. adım:** 3 5 7 8 | 2 9 4 15 6 -> 7 ve 8 i karşılaştırıyoruz. 8, 7 den büyük olduğu için yer değiştirme yapmıyoruz.
+
+
+
+
+
 
 
 
